@@ -19,6 +19,9 @@ Il piano è strutturato in **blocchi di 2 settimane**.
 - Teoria: intervalli (tonica, terza, quinta), annotazioni su quaderno  
 - Repertorio: *Knockin’ on Heaven’s Door* versione semplice
 
+- [Settimana 1](Piano/Week-1.md)
+- [Settimana 2](Piano/Week-2.md)
+
 ### Settimane 3–4
 - Tecnica: arpeggio p-i-m-a 3 min, barré consolidati  
 - Ritmo: alternanza strumming/arpeggio, ghost notes  
