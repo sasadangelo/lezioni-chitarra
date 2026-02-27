@@ -14,7 +14,7 @@ Il piano è strutturato in **blocchi di 2 settimane**.
 ## 🔹 Sezione Basi
 In questa sezione approfondisco le Basi per suonare la Chitarra:
 
-- [Basi della Chitarra](Basi.md) → termini tecnici, tipologie di chitarra, anatomia dello strumento, lezioni varie.
+- [Basi della Chitarra](Appunti/Basi.md) → termini tecnici, tipologie di chitarra, anatomia dello strumento, lezioni varie.
 
 ## 📅 FASE 1 – Fondamenta solide (Settimane 1–8)
 
