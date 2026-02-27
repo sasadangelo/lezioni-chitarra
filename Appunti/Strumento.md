@@ -40,6 +40,8 @@ La chitarra elettrica richiede una nomenclatura specifica per la sua parte elett
 * **Pickup (Magneti)**: Funzionano come microfoni magnetici. Poiché lavorano tramite magnetismo, richiedono necessariamente corde metalliche per funzionare; non produrrebbero alcun suono se usati con corde in nylon.
 * **Uscita Jack**: Il punto di connessione fisico da cui esce il segnale elettrico verso l'amplificatore.
 
+![Chitarra Elettrica](../images/chitarra-elettrica.png)
+
 ## Caratteristiche Strutturali Aggiuntive
 
 Infine, ecco alcuni dettagli che potreste incontrare su diversi modelli:
