@@ -1,6 +1,6 @@
 # Conoscere lo Strumento
 
-## Introduzione alla Lezione 01
+## Introduzione
 
 Benvenuti a questa prima lezione. L'obiettivo fondamentale oggi è imparare a distinguere con precisione le diverse tipologie di chitarra e acquisire la terminologia tecnica corretta per descriverne ogni parte. È importante l'uso dei termini appropriati: chiamare le cose con il loro nome non è solo una questione di forma, ma serve a evitare tutte quelle incomprensioni tipiche dei principianti che possono rallentare il vostro percorso didattico e la comunicazione con altri musicisti.
 
