@@ -13,6 +13,8 @@ Esistono quattro categorie principali di chitarra che ogni studente deve saper r
 * **Chitarra Elettrica**: Definita solid body (corpo solido), è priva di cassa armonica. Per questo motivo, necessita obbligatoriamente di un sistema di amplificazione per essere udibile.
 * **Chitarra Semiacustica**: Uno strumento ibrido con corpo parzialmente cavo. Produce un volume superiore a una solid body, ma inferiore a un'acustica. Un consiglio pratico: è ottima per studiare in silenzio a casa, ma sappiate che in un contesto non amplificato la voce umana tenderebbe a sovrastarne il volume.
 
+![Tipi di Chitarre](../images/tipi-chitarre.png)
+
 ## Anatomia Comune dello Strumento
 
 Quasi tutti i modelli condividono una struttura di base. Impariamo i termini corretti per ogni componente:
