@@ -26,7 +26,7 @@ Quasi tutti i modelli condividono una struttura di base. Impariamo i termini cor
 * **Ponte (o Ponticello)**: La componente fissata sul corpo dove vengono ancorate le corde, situata in posizione opposta al Nut.
 * **Battipenna**: Protegge il legno dai graffi del plettro. Sulla chitarra classica si trova raramente, tranne che nei modelli per il Flamenco, dove serve a proteggere la cassa dai colpi percussivi dati con le unghie.
 
-[Parti della Chitarra](images/strumento.webp)
+[Parti della Chitarra](../images/strumento.webp)
 ## Componenti Specifiche della Chitarra Elettrica
 
 La chitarra elettrica richiede una nomenclatura specifica per la sua parte elettronica:
