@@ -27,6 +27,7 @@ Quasi tutti i modelli condividono una struttura di base. Impariamo i termini cor
 * **Battipenna**: Protegge il legno dai graffi del plettro. Sulla chitarra classica si trova raramente, tranne che nei modelli per il Flamenco, dove serve a proteggere la cassa dai colpi percussivi dati con le unghie.
 
 [Parti della Chitarra](../images/strumento.png)
+
 ## Componenti Specifiche della Chitarra Elettrica
 
 La chitarra elettrica richiede una nomenclatura specifica per la sua parte elettronica:
