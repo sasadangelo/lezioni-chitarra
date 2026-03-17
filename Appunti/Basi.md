@@ -13,6 +13,9 @@ Questa pagina fungerà da **manuale delle basi**, aggiornabile con appunti, diag
 ### 1. Conoscere lo Strumento
 - Obiettivo: distinguere le tipologie di chitarra e imparare i nomi delle varie parti dello strumento.
   - [Sintesi della Lezione](Strumento.md) - [Video Lezione di Massimo Varini](https://www.youtube.com/watch?v=eYZ_OIz4_tQ)
+### 2. Imbracciare lo Strumento
+- Obiettivo: distinguere le tipologie di chitarra e imparare i nomi delle varie parti dello strumento.
+  - [Sintesi della Lezione](Imbracciare-Strumento.md) - [Video Lezione di Massimo Varini](https://www.youtube.com/watch?v=-mHThPM2sm0)
 
 ---
 
