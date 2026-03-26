@@ -14,6 +14,8 @@ Ecco lo schema delle corde dalla più doppia (6ª corda) alla più sottile (1ª 
 * 2ª corda: Si (in inglese: B)
 * 1ª corda (la più sottile): Mi cantino (in inglese: E)
 
+![Nomi delle Corde della Chitarra](../images/nomi-corde-chitarra.jpg)
+
 --------------------------------------------------------------------------------
 
 ## 2. Accordatura con accordatore elettronico
@@ -26,6 +28,8 @@ L'uso di un accordatore elettronico è il metodo più semplice e immediato. Esis
   * Se il suono è **calante** (troppo basso), la nota si trova a sinistra del centro. Devi **girare la meccanica** (la manovella sulla paletta) per tendere la corda e alzare il tono.
   * Se il suono è **crescente** (troppo alto), la nota è a destra. Devi allentare la corda girando la meccanica in senso opposto.
 * La corda è perfettamente accordata quando l'indicatore è **centrato**, spesso segnalato da un cambio di colore (solitamente verde).
+
+![Accordatore Elettrico](../images/accordatore-elettrico.jpg)
 
 --------------------------------------------------------------------------------
 
@@ -42,6 +46,8 @@ Saper accordare "a orecchio" è un'abilità preziosa per ogni musicista. Per far
 * **La 6ª corda (Mi basso)**: Il Mi basso può essere accordato in due modi:
   * Confrontandolo con il Mi cantino (sono due ottave di distanza, un po' difficile per i principianti).
   * Oppure premendo la **5ª corda al 7º tasto** (nota Mi/E) e usandola come riferimento per la **6ª corda a vuoto**.
+
+![Accordare Chitarra a Orecchio](../images/accordare-chitarra-orecchio.jpg)
 
 **Suggerimenti pratici**:
 * **Battimenti**: Se le due note sono molto vicine ma non identiche, sentirai un'oscillazione nel suono chiamata "battimento". Quando le note sono perfettamente allineate, questa vibrazione scompare.
