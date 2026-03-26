@@ -16,6 +16,9 @@ Questa pagina fungerà da **manuale delle basi**, aggiornabile con appunti, diag
 ### 2. Imbracciare lo Strumento
 - Obiettivo: Apprendere la corretta postura, la nomenclatura delle dita e la notazione internazionale delle note.
   - [Sintesi della Lezione](Imbracciare-Strumento.md) - [Video Lezione di Massimo Varini](https://www.youtube.com/watch?v=-mHThPM2sm0)
+### 3. Accordare lo Strumento
+- Obiettivo: Apprendere come accordare lo strumento.
+  - [Sintesi della Lezione](Accordare-Strumento.md) - [Video Lezione di Massimo Varini](https://www.youtube.com/watch?v=nw5A7YLFN64)
 
 ---
 
