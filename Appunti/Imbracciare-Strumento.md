@@ -11,7 +11,7 @@ Per garantire la massima stabilità e il benessere fisico, dobbiamo distinguere 
 * **Corretta**: Posizione Classica Nella postura tradizionale della chitarra classica, il poggiapiede va posizionato sotto la gamba opposta (la sinistra per i destrimani) e regolato a un'altezza maggiore. La chitarra poggia sulla coscia sollevata, con la paletta orientata verso l'alto, all'incirca all'altezza della tua spalla.
 * Il "trucco" per le emergenze Se non hai ancora un poggiapiede, puoi usare dei libri o un mattoncino per sollevare il piede. In alternativa, puoi sollevare la gamba poggiando solo la punta del piede a terra; tuttavia, ti avviso che questa soluzione "non è il massimo" e non è consigliata per sessioni di studio prolungate.
 
-![Postura Classica](../images/postura-classica.png)
+![Postura Classica](../images/postura-chitarra-classica.png)
 
 ![Postura Casual](../images/postura-casual.png)
 
