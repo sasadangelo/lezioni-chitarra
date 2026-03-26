@@ -42,9 +42,3 @@ Come chitarrista, ti troverai a parlare una "doppia lingua". È essenziale padro
 | G	                | Sol                        |
 
 La regola pratica è semplice: quando parliamo, usiamo i nomi italiani (Do, Re, Mi...), ma quando scriviamo o leggiamo la siglatura degli accordi, utilizziamo esclusivamente le lettere internazionali (C, D, E...).
-
-## Introduzione all'Accordo di Mi Minore
-
-Il tuo viaggio pratico inizierà con un pilastro della musica: l'accordo di Mi minore. Nella notazione internazionale che abbiamo appena visto, questo accordo viene identificato con la lettera E.
-
-Tieni a mente questa sigla, perché il Mi minore (E) sarà il primo accordo che impareremo a costruire e suonare concretamente durante la Lezione 05 del nostro percorso [21]. Preparati, perché è qui che la teoria si trasformerà finalmente in musica!
