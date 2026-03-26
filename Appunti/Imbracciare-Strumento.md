@@ -7,9 +7,13 @@ Iniziamo dalle basi: la tua postura è il motore di tutto ciò che suonerai. Imp
 Per garantire la massima stabilità e il benessere fisico, dobbiamo distinguere nettamente tra le abitudini da evitare e le posizioni che invece favoriscono l'apprendimento.
 
 * **Sconsigliata**: Gambe Accavallate Molti principianti tendono a suonare con le gambe accavallate, ma questa è una pratica che sconsiglio vivamente. Oltre a esercitare una pressione eccessiva sul ginocchio della gamba sottostante, questa posizione ostacola la circolazione (provocando il fastidioso formicolio o "formichine") e causa un disassamento del corpo. A lungo andare, questo squilibrio posturale può generare problemi fisici reali.
-* **Corretta**: Posizione Folk con Poggiapiede. L'uso di un poggiapiede è la soluzione ottimale per stabilizzare la chitarra. L'altezza va regolata in base alla tua sedia e alla tua fisicità: l'obiettivo è ottenere un angolo della gamba di circa 90 gradi, o preferibilmente leggermente superiore. Un angolo leggermente maggiore di 90 gradi è fondamentale perché impedisce allo strumento di scivolare in avanti, mantenendolo ben saldo contro il corpo.
-* **Corretta**: Posizione Classica Nella postura tradizionale della chitarra classica, il poggiapiede va posizionato sotto la gamba opposta (la sinistra per i destrimani) e regolato a un'altezza maggiore. La chitarra poggia sulla coscia sollevata, con la paletta orientata verso l'alto, all'incirca all'altezza della tua spalla [16].
-* Il "trucco" per le emergenze Se non hai ancora un poggiapiede, puoi usare dei libri o un mattoncino per sollevare il piede. In alternativa, puoi sollevare la gamba poggiando solo la punta del piede a terra; tuttavia, ti avviso che questa soluzione "non è il massimo" e non è consigliata per sessioni di studio prolungate [16].
+* **Corretta**: Posizione Classica con Poggiapiede. L'uso di un poggiapiede è la soluzione ottimale per stabilizzare la chitarra. L'altezza va regolata in base alla tua sedia e alla tua fisicità: l'obiettivo è ottenere un angolo della gamba di circa 90 gradi, o preferibilmente leggermente superiore. Un angolo leggermente maggiore di 90 gradi è fondamentale perché impedisce allo strumento di scivolare in avanti, mantenendolo ben saldo contro il corpo.
+* **Corretta**: Posizione Classica Nella postura tradizionale della chitarra classica, il poggiapiede va posizionato sotto la gamba opposta (la sinistra per i destrimani) e regolato a un'altezza maggiore. La chitarra poggia sulla coscia sollevata, con la paletta orientata verso l'alto, all'incirca all'altezza della tua spalla.
+* Il "trucco" per le emergenze Se non hai ancora un poggiapiede, puoi usare dei libri o un mattoncino per sollevare il piede. In alternativa, puoi sollevare la gamba poggiando solo la punta del piede a terra; tuttavia, ti avviso che questa soluzione "non è il massimo" e non è consigliata per sessioni di studio prolungate.
+
+![Postura Classica](../images/postura-classica.jpg)
+
+![Postura Casual](../images/postura-casual.jpg)
 
 ## Nomenclatura delle Mani e delle Dita
 
