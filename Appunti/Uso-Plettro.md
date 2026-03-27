@@ -13,7 +13,7 @@ L'impugnatura deve essere salda ma non rigida. Segui questi passaggi:
 2. Appoggia il plettro sul lato del dito indice in modo che rimanga fermo.
 3. Chiudi il pollice sopra di esso per bloccarlo e aggiustane la posizione.
 
-![Impugnatura del Plettro](../images/plattro-1.jpg)
+![Impugnatura del Plettro](../images/plettro-1.jpg)
 
 Un **dettaglio fondamentale**: il plettro deve fuoriuscire dall'impugnatura solo di **pochi millimetri**.
 
@@ -21,7 +21,7 @@ Un **dettaglio fondamentale**: il plettro deve fuoriuscire dall'impugnatura solo
 * Se sporge troppo poco, l'impatto con le corde risulterà troppo duro.
 * Evita di "entrare" troppo con il plettro tra le corde: deve solo sfiorarle per permettere un movimento fluido.
 
-![Impugnatura del Plettro](../images/plattro-2.jpg)
+![Impugnatura del Plettro](../images/plettro-2.jpg)
 
 ## 3. Il movimento corretto
 
