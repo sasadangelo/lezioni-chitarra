@@ -22,6 +22,9 @@ Questa pagina fungerà da **manuale delle basi**, aggiornabile con appunti, diag
 ### 4. Uso del Plettro
 - Obiettivo: Apprendere l'uso del plettro.
   - [Sintesi della Lezione](Uso-Plettro.md) - [Video Lezione di Massimo Varini](https://www.youtube.com/watch?v=5QVcbIiS9dE)
+### 5. I Primi Accordi: Mi minore e La minore
+- Obiettivo: Prendiamo confidenza con i primi accordi: Mi minore e La minore.
+  - [Sintesi della Lezione](Primi-Accordi.md) - [Video Lezione di Massimo Varini](https://www.youtube.com/watch?v=_Xvb0sJ9LEM)
 
 ---
 
