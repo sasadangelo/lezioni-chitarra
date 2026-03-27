@@ -20,7 +20,7 @@ Questa pagina fungerà da **manuale delle basi**, aggiornabile con appunti, diag
 - Obiettivo: Apprendere come accordare lo strumento.
   - [Sintesi della Lezione](Accordare-Strumento.md) - [Video Lezione di Massimo Varini](https://www.youtube.com/watch?v=nw5A7YLFN64)
 ### 4. Uso del Plettro
-- Obiettivo: Apprendere come accordare lo strumento.
+- Obiettivo: Apprendere l'uso del plettro.
   - [Sintesi della Lezione](Uso-Plettro.md) - [Video Lezione di Massimo Varini](https://www.youtube.com/watch?v=5QVcbIiS9dE)
 
 ---
